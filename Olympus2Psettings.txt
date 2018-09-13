@@ -1,0 +1,11 @@
+Spontaneous Imaging Setting for Olympus 2 Photon
+Spatial Filter:				Yes
+Spatial Filter - gaussian smoothing:	2
+Spatial Filter - mask:			5
+Size Percentile bin (secs):		25
+Lower Percentile Threshold:		20
+Calculate FWHM using fitter gaussians:	no
+Remove Bleach Frames:			0
+Baseline Number for df/F=0%x2=100%:	1000
+Output df/F (yes/no):			yes
+Output dF (yes/no):			yes
